@@ -1,18 +1,17 @@
-# Asistente de Voz Inteligente 🎙️
+Asistente de Voz Inteligente 
 
 Este es un proyecto de asistente virtual desarrollado en Python. El programa es capaz de escuchar comandos de voz (o texto), buscar información en Wikipedia y abrir sitios web populares como Google y YouTube automáticamente.
+- Funcionalidades
+Reconocimiento de voz: Entiende comandos básicos del usuario.
+Integración con Wikipedia: Busca resúmenes de cualquier tema rápidamente.
+Automatización web: Abre YouTube y Google mediante comandos de voz.
+Interfaz en terminal: Muestra el progreso de las búsquedas y respuestas en tiempo real.
 
-# Funcionalidades
-* Reconocimiento de voz: Entiende comandos básicos del usuario.
-* Integración con Wikipedia: Busca resúmenes de cualquier tema rápidamente.
-* Automatización web: Abre YouTube y Google mediante comandos de voz.
-* Interfaz en terminal: Muestra el progreso de las búsquedas y respuestas en tiempo real.
+-Tecnologías utilizadas
+ Python 3.x
+ Bibliotecas: `webbrowser`, `wikipedia` (y las que estés usando para el audio).
 
-#Tecnologías utilizadas
-* Python 3.x
-* Bibliotecas: `webbrowser`, `wikipedia` (y las que estés usando para el audio).
-
-# 📋 Requisitos e Instalación
+- Requisitos e Instalación
 Para ejecutar este proyecto localmente, asegúrate de tener Python instalado y sigue estos pasos:
 
 1. Clona el repositorio:
